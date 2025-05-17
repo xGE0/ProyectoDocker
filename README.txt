@@ -28,14 +28,13 @@ proyecto/
    - Tener Docker y Docker Compose instalados.
 
 2. Clonar el repositorio:
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-   cd nombre_del_repositorio
+   git clone https://github.com/xGE0/ProyectoDocker
 
 3. Ejecutar los servicios:
    docker-compose up --build
 
 4. Acceso a la aplicación:
-   - Frontend disponible en: http://localhost:80 (o el puerto configurado).
+   - Frontend disponible en: http://localhost:8080 (o el puerto configurado).
    - Backend (API Flask) en: http://localhost:5000 (si se expone).
 
 ## Seguridad y redes
